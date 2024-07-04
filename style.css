@@ -1,0 +1,11 @@
+
+.navbar{
+    position: sticky;
+}
+.navbar_item{
+    margin-right: 10px;
+    display: inline;
+}
+.content{
+    margin: 10px 0px;
+}
